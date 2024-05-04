@@ -1,8 +1,9 @@
 Imprescindible tener python instalado, descargar desde página oficial
 https://www.python.org/downloads/
 
-Instalar Ncap
+*Instalar Ncap
 
+*Instalar Scapy ---Comando desde consola CMD - pip install scapy
 
 
 Ejecutar Start.exe 
