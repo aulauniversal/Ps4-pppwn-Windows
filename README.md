@@ -2,7 +2,7 @@ Imprescindible tener instalado todo este software en orden para evitar fallos de
 descargar Python desde página oficial
 https://www.python.org/downloads/
 
-*Instalar Python
+*Instalar Python-En proceso de instalación clickear ambas casillas seleccionable PIP
 
 *Instalar Ncap (Archivo incluido)
 
