@@ -8,6 +8,9 @@ https://www.python.org/downloads/
 
 *Instalar Scapy ---Comando desde consola CMD -  pip install scapy
 
+***ACTUALIZACIÓN***
+Sustituir la carga util "stage2.bin" por el requerido por el usuario , ya se encuentra disponible  tanto
+LoaderUSB como modo DebugSystem para version 11.00
 
 Ejecutar Start.exe 
 
