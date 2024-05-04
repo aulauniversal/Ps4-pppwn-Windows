@@ -1,7 +1,10 @@
-Imprescindible tener python instalado, descargar desde página oficial
+Imprescindible tener instalado todo este software en orden para evitar fallos de instalación,
+descargar Python desde página oficial
 https://www.python.org/downloads/
 
-*Instalar Ncap
+*Instalar Python
+
+*Instalar Ncap (Archivo incluido)
 
 *Instalar Scapy ---Comando desde consola CMD -  pip install scapy
 
