@@ -1,6 +1,10 @@
 Imprescindible tener python instalado, descargar desde página oficial
 https://www.python.org/downloads/
 
+Instalar Ncap
+
+
+
 Ejecutar Start.exe 
 
 Valido para todas las versiones dese 9.00 hasta 11.00 
