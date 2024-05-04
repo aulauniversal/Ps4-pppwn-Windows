@@ -11,6 +11,7 @@ https://www.python.org/downloads/
 ***ACTUALIZACIÓN***
 Sustituir la carga util "stage2.bin" por el requerido por el usuario , ya se encuentra disponible  tanto
 LoaderUSB como modo DebugSystem para version 11.00
+La ubicación a sustituir es     /_internal/PS4_stage_bin_all/XxXVersion/stage2/
 
 Ejecutar Start.exe 
 
