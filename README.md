@@ -13,6 +13,8 @@ Sustituir la carga util "stage2.bin" por el requerido por el usuario , ya se enc
 LoaderUSB como modo DebugSystem para version 11.00
 La ubicación a sustituir es     /_internal/PS4_stage_bin_all/XxXVersion/stage2/
 
+Eliminar el archivo existente stage2.bin y sustituir por el seleccionado, renombrar este como el archivo de origen "stage2.bin"
+
 Ejecutar Start.exe 
 
 Valido para todas las versiones dese 9.00 hasta 11.00 
