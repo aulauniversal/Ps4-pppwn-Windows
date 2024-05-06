@@ -8,6 +8,8 @@ https://www.python.org/downloads/
 
 *Instalar Scapy ---Comando desde consola CMD -  pip install scapy
 
+*Requerimientos Python :    pip install -r requirements.txt
+
 ***ACTUALIZACIÓN***
 -ACTUALIZADO STAGE2.BIN 11.00 LOADER STABLE
 -ACTUALIZADO RECOPILACION PAYLOADS 11.00
