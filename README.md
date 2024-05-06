@@ -6,7 +6,7 @@ https://www.python.org/downloads/
 
 *Instalar Ncap (Archivo incluido)
 
-*Instalar Scapy ---Comando desde consola CMD -  pip install scapy
+*Instalar Scapy ---Comando desde consola CMD : pip install scapy
 
 *Requerimientos Python :    pip install -r requirements.txt
 
