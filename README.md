@@ -7,6 +7,11 @@ https://www.python.org/downloads/
 *Instalar Ncap (Archivo incluido)
 
 *Instalar Scapy ---Comando desde consola CMD -  pip install scapy
+***ACTUALIZACIÓN***
+-ACTUALIZADO STAGE2.BIN 11.00 LOADER STABLE
+-ACTUALIZADO RECOPILACION PAYLOADS 11.00
+-ARCHIVO START.PY VALIDO PARA ANDROID (TELEFONO ROOTEADO Y TERMUX Y TODAS LAS DEPENDENCIAS REQUERIDAS)
+
 
 ***ACTUALIZACIÓN***
 Sustituir la carga util "stage2.bin" por el requerido por el usuario , ya se encuentra disponible  tanto
