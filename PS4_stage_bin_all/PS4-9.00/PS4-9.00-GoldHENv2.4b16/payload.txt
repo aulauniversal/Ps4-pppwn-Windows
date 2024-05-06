@@ -1,0 +1,1 @@
+Grabar el archivo payload.bin en un USB formateado en Fat32, en su directorio raiz
