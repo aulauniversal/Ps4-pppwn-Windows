@@ -7,6 +7,7 @@ https://www.python.org/downloads/
 *Instalar Ncap (Archivo incluido)
 
 *Instalar Scapy ---Comando desde consola CMD -  pip install scapy
+
 ***ACTUALIZACIÓN***
 -ACTUALIZADO STAGE2.BIN 11.00 LOADER STABLE
 -ACTUALIZADO RECOPILACION PAYLOADS 11.00
