@@ -2,8 +2,8 @@
 REM AULAUNIVERSAL 2024
 REM Instalación de Python
 echo Instalando Python...
-start /w "" https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe
-REM Asegúrate de seleccionar la opción "Agregar Python 3.x al PATH" durante la instalación.
+start /w "" python-3.10.0-amd64.exe
+echo Asegúrate de seleccionar la opción "Agregar Python 3.x al PATH" durante la instalación.
 
 REM Instalación de Npcap
 echo Instalando Npcap...
