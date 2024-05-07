@@ -11,6 +11,10 @@ https://www.python.org/downloads/
 *Requerimientos Python :    pip install -r requirements.txt
 
 ***ACTUALIZACIÓN***
+-Añadido archivo auto instalable .BAT 
+-Modificación de archivo start.py LINUX OK , WINDOWS OK , Android Emulator OK , Real ???? sin poder probar 
+
+***ACTUALIZACIÓN***
 -ACTUALIZADO STAGE2.BIN 11.00 LOADER STABLE
 -ACTUALIZADO RECOPILACION PAYLOADS 11.00
 -ARCHIVO START.PY VALIDO PARA ANDROID (TELEFONO ROOTEADO Y TERMUX Y TODAS LAS DEPENDENCIAS REQUERIDAS)
