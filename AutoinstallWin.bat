@@ -2,7 +2,9 @@
 REM AULAUNIVERSAL 2024
 REM Instalación de Python
 echo Instalando Python...
-start /w "" python-3.10.0-amd64.exe
+start /w "" https://www.python.org/downloads/
+echo Debrás de instalar python manualmente y hasta que no lo tengas instalado
+echo NO PROSIGAS CON LA INSTALACIÓN
 echo Asegúrate de seleccionar la opción "Agregar Python 3.x al PATH" durante la instalación.
 
 REM Instalación de Npcap
