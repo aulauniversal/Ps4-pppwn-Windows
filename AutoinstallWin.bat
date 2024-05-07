@@ -1,11 +1,13 @@
 @echo off
 REM AULAUNIVERSAL 2024
-REM Instalación de Python
+REM Instalacion de Python
 echo Instalando Python...
 start /w "" https://www.python.org/downloads/
-echo Debrás de instalar python manualmente y hasta que no lo tengas instalado
-echo NO PROSIGAS CON LA INSTALACIÓN
-echo Asegúrate de seleccionar la opción "Agregar Python 3.x al PATH" durante la instalación.
+echo BIENVENIDO AL INSTALADOR AUTOMATICO AULAUNIVERSAL 2024 PS4 PPPWN THEFLOW******
+echo Deberas de instalar python manualmente y hasta que no lo tengas instalado
+echo NO PROSIGAS CON LA INSTALACION
+echo repite la accion si te da error al instalar todo lo demas sin python
+echo Asegurate de seleccionar la opcion "Agregar Python 3.x al PATH" durante la instalacion.
 
 REM Instalación de Npcap
 echo Instalando Npcap...
