@@ -1,3 +1,7 @@
+Instrucciones mas detalladas en el video para hacerlo funcionar en todos los sistemas posibles excepto MAC
+
+https://www.youtube.com/watch?v=xk5VTApAl-M
+
 Imprescindible tener instalado todo este software en orden para evitar fallos de instalación,
 descargar Python desde página oficial
 https://www.python.org/downloads/
