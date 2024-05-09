@@ -15,6 +15,13 @@ https://www.python.org/downloads/
 *Requerimientos Python :    pip install -r requirements.txt
 
 ***ACTUALIZACIÓN***
+
+GOLDHEN ACTUALIZADO PARA VERSION 11.00, EL CARGADOR YA SE ENCUENTRA EN STAGE2 SOLO HAY QUE METER EL PAYLOAD AL USB Y EJECUTAR
+
+*******************
+
+
+***ACTUALIZACIÓN***
 -Añadido archivo auto instalable .BAT 
 -Modificación de archivo start.py LINUX OK , WINDOWS OK , Android Emulator OK , Real ???? sin poder probar 
 
