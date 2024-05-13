@@ -14,6 +14,12 @@ https://www.python.org/downloads/
 
 *Requerimientos Python :    pip install -r requirements.txt
 
+
+***ACTUALIZACIÓN***
+
+Incluido Loader nuevo stage1 + stage2 + pppwn C++ Stable Solo para versiones 11.00 activo. Windows y Linux
+
+
 ***ACTUALIZACIÓN***
 
 GOLDHEN ACTUALIZADO PARA VERSION 11.00, EL CARGADOR YA SE ENCUENTRA EN STAGE2 SOLO HAY QUE METER EL PAYLOAD AL USB Y EJECUTAR
