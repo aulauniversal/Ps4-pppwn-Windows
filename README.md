@@ -20,13 +20,13 @@ Imprescindible tener instalado todo este software en orden para evitar fallos de
 descargar Python desde página oficial
 https://www.python.org/downloads/
 
-*Instalar Python-En proceso de instalación clickear ambas casillas seleccionable PIP
+*WINDOWS
 
-*Instalar Ncap (Archivo incluido)
+Ejecutar Autoinstall.bat
 
-*Instalar Scapy ---Comando desde consola CMD : pip install scapy
+instalar python lo primero , sin eso lo demás del proceso dará fallo lo demás se instalará todo automáticamente menos ncap que tendréis que aceptar la instalación sin más , si a la primera falla volver a probar , sin python no va a funcionar , cuando tengáis python reintentad e irá bien .
 
-*Requerimientos Python :    pip install -r requirements.txt
+ejecutar start.wxe cuando esté todo OK
 
 
 ***ACTUALIZACIÓN***
