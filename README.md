@@ -1,6 +1,6 @@
 En Linux es sencillo solo instalar los requerimientos :
 
-pip install -r requirements tx
+pip install -r requirements.txt
 
 y ejecutar start.py :
 
