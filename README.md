@@ -1,3 +1,12 @@
+En Linux es sencillo solo instalar los requerimientos :
+
+pip install -r requirements tx
+
+y ejecutar start.py :
+
+python3 start.py o python start.py
+
+
 Instrucciones mas detalladas en el video para hacerlo funcionar en todos los sistemas posibles excepto MAC
 
 https://www.youtube.com/watch?v=xk5VTApAl-M
