@@ -1,5 +1,8 @@
 En Linux es sencillo solo instalar los requerimientos :
 
+python y pip instalado
+
+
 pip install -r requirements.txt
 
 y ejecutar start.py :
